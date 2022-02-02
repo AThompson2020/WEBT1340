@@ -16,7 +16,7 @@
 
 <h4>Project 5</h4>>
 <ul>
-    <li><a href="project_5/chapter_work/Finished_Culture_Brochure.zip">Project 5 - Chapter Work</a></li>
+    <li><a href="project_5/Finished_Culture_Brochure.zip">Project 5 - Chapter Work</a></li>
     <li><a href="project_5/AOS-Brochure.pdf">Project 5 - Chapter Work PDF</a></li>
     <li><a href="project_5/painted_turtle_brochure.ai">Project 5 - Portfolio Builder</a></li>
 </ul>
