@@ -25,7 +25,7 @@
 <ul>
     <li><a href="project_7/coffee-producers.ai">Project 7 - Chapter Work</a></li>
     <li><a href="project_7/favorites-graph.ai">Project 7 - Chapter Work</a></li>
-    <li><a href="project_7/prices-graph.ai">Project 7 - Chapter Work</a></li>
+    <li><a href="project_7/price-graph.ai">Project 7 - Chapter Work</a></li>
     <li><a href="project_7/reasons-graph.ai">Project 7 - Chapter Work</a></li>
     <li><a href="project_7/fig1-graph.ai">Project 7 - Portfolio Builder</a></li>
     <li><a href="project_7/fig2-graph.ai">Project 7 - Portfolio Builder</a></li>
