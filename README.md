@@ -21,4 +21,15 @@
     <li><a href="project_5/painted_turtle_brochure.ai">Project 5 - Portfolio Builder</a></li>
 </ul>
 
+<h5>Project 7</h5>>
+<ul>
+    <li><a href="project_7/coffee-producers.ai">Project 7 - Chapter Work</a></li>
+    <li><a href="project_7/favorites-graph.ai">Project 7 - Chapter Work</a></li>
+    <li><a href="project_7/prices-graph.ai">Project 7 - Chapter Work</a></li>
+    <li><a href="project_7/reasons-graph.ai">Project 7 - Chapter Work</a></li>
+    <li><a href="project_7/fig1-graph.ai">Project 7 - Portfolio Builder</a></li>
+    <li><a href="project_7/fig2-graph.ai">Project 7 - Portfolio Builder</a></li>
+    <li><a href="project_7/fig3-graph.ai">Project 7 - Portfolio Builder</a></li>
+</ul>
+
 <a href="example/index.html" target="_blank">Example Page</a>
