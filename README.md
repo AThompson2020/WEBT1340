@@ -34,7 +34,7 @@
 
 <h2>Project 8</h2>>
 <ul>
-    <li><a href="project_8/site-design.ai">Project 8 - Chapter Work</a></li>
+    <li><a href="project_8/Studion/site-design.ai">Project 8 - Chapter Work</a></li>
 </ul>
 
 <a href="example/index.html" target="_blank">Example Page</a>
