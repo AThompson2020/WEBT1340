@@ -32,4 +32,9 @@
     <li><a href="project_7/fig3-graph.ai">Project 7 - Portfolio Builder</a></li>
 </ul>
 
+<h2>Project 8</h2>>
+<ul>
+    <li><a href="project_8/site-design.ai">Project 8 - Chapter Work</a></li>
+</ul>
+
 <a href="example/index.html" target="_blank">Example Page</a>
