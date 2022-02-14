@@ -35,6 +35,8 @@
 <h2>Project 8</h2>>
 <ul>
     <li><a href="project_8/Studio/site-design.ai">Project 8 - Chapter Work</a></li>
+    <li><a href="project_8/portfolio/portfolio-brochure_Folder/portfolio-brochure.ai">Project 8 - Portfolio Brochure AI</a></li>
+    <li><a href="project_8/portfolio/portfolio-brochure.pdf">Project 8 - Portfolio Brochure PDF</a></li>
 </ul>
 
 <a href="example/index.html" target="_blank">Example Page</a>

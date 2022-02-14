@@ -1,0 +1,80 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: portfolio-brochure.ai
+Color Mode: CMYK color
+Color Profile: none
+Ruler Units: inches
+Artboard Dimensions: 11.875 in x 9 in
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+HKS 60 K (Lab)
+PANTONE 10129 C (Lab)
+PANTONE 802 U (Lab)
+PANTONE Neutral Black U (Lab)
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Algerian (OTF)
+Bauhaus 93 (OTF)
+Berlin Sans FB (OTF)
+Century Schoolbook (OTF)
+Cooper Black (OTF)
+Georgia Italic (OTF)
+Harlow Solid Italic (OTF)
+Jokerman (OTF)
+Kristen ITC (OTF)
+Ravie (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+ImprintMT Shadow*
+BirchStd*
+ATCAgate Book*
+ImprintMT Shadow*
+ATCGarnet Medium*
+Elephant Regular*
+KristenITC Regular*
+ATCAgate MediumItalic*
+HarlowSolid*
+BritannicBold*
+Ravie*
+Jokerman Regular*
+Harrington*
+MVBoli*
+MyriadPro Regular*
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+C:\Users\Ashley\OneDrive - Chattanooga State Community College (1)\Chatt State\Ashley\WEBT 1340\project_7\fig3-graph.ai
+Type: PDF
+
+C:\Users\Ashley\OneDrive - Chattanooga State Community College (1)\Chatt State\Ashley\WEBT 1340\project_7\fig2-graph.ai
+Type: PDF
+
+C:\Users\Ashley\OneDrive - Chattanooga State Community College (1)\Chatt State\Ashley\WEBT 1340\project_7\fig1-graph.ai
+Type: PDF
+
+C:\Users\Ashley\OneDrive - Chattanooga State Community College (1)\Chatt State\Ashley\WEBT 1340\project_3\zoo_invitation.ai
+Type: PDF
+
+C:\Users\Ashley\OneDrive - Chattanooga State Community College (1)\Chatt State\Ashley\WEBT 1340\project_5\painted_turtle_brochure.ai
+Type: PDF
