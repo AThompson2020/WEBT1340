@@ -1,0 +1,256 @@
+body {
+    background-color: white
+    font-family: 'Caveat', cursive;
+    color: white;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+
+/* Mobile Styles*/
+
+header {
+    background-image: url('../images/table_top_food.jpeg');
+    background-size: cover;
+    padding: 75px 0;
+    font-family: 'Caveat', cursive;
+   }
+
+header h1 {
+    color: rgb(233, 154, 7);
+    text-align: center;  
+    font-family: 'Caveat', cursive;
+    font-size: 50px;
+    padding-top: 80px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: block;
+}
+
+nav li a {
+    display: block;
+    background-color: #246e07;
+    color: white;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.5em;
+    margin: 10px 0;
+    border-radius: 10px;
+    font-family: 'Caveat', cursive;
+}
+
+nav li a:hover {
+    background-color: #7ac264;
+}
+
+nav, section, aside, .col, footer {
+    background-color: #7ac264;
+    padding: 10px;
+    margin: 10px;
+    border: 4px solid #246e07;
+    border-radius: 10px;
+}
+
+h2, h3 ,p {
+    color: rgb(255, 255, 255);
+    font-size: 1.5em;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+}
+
+.button {
+    display: block;
+    background-color: #246e07;
+    color: white;
+    height: 40px;
+    width: 175px;
+    line-height: 40px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.5em;
+    margin: 10px auto;
+    border-radius: 10px;
+    font-family: 'Caveat', cursive;
+}
+
+.button:hover {
+    background-color: #7ac264;
+}
+
+.single_col {
+    width: 88%;
+    text-align: center;
+}
+
+.groceries_img {
+    border: 4px solid white;
+    border-radius: 10px;
+    margin: 10px auto;
+}
+
+table {
+    display: none;
+}
+
+/* Tablet Styles*/
+
+@media(min-width: 768px) {
+    header {
+        padding: 5em;
+    }
+
+    header h1 {
+        color: rgb(233, 154, 7);
+        font-size: 8em;
+    }
+
+    nav {
+        text-align: center;
+        padding: 5px;
+    }
+
+    nav li {
+        display: inline-block;
+    }
+
+    nav li a {
+        height: 50px;
+        line-height: 50px;
+        width: 200px;
+    }
+
+    .button {
+        display: block;
+        background-color: #246e07;
+        color: white;
+        height: 40px;
+        width: 175px;
+        line-height: 40px;
+        text-align: center;
+        text-decoration: none;
+        font-size: 1.5em;
+        margin: 10px auto;
+        border-radius: 10px;
+        font-family: 'Caveat', cursive;
+    }
+    
+    .button:hover {
+        background-color: #7ac264;
+    }
+
+    h2, h3 ,p {
+        color: rgb(255, 255, 255);
+        font-size: 1.5em;
+        text-align: center;
+        font-family: 'Caveat', cursive;
+    }
+
+    #upper_flex {
+        display: flex;
+    }
+
+    section, aside {
+        width: 50%;
+    }
+
+    .col img {
+        width: 75%;
+        border-radius: 10px;
+        border-color: 4px solid #246e07;
+    }
+
+    .single_col {
+        width: 95%;
+        text-align: center;
+    }
+}
+
+
+/* Desktop Styles*/
+
+@media(min-width: 1024px) {
+
+    header {
+        background-image: url('../images/table_top_food.jpeg');
+        background-size: cover;
+        padding: 200px 0;
+        font-family: 'Caveat', cursive;
+        border-radius: 20px 20px 0 0;
+    }
+
+    header h1 {
+        color: rgb(233, 154, 7);
+        font-size: 10em;
+        padding: 200px;
+        padding-top: 3em;
+    }
+
+    nav li a {
+        margin: 0 20px;
+    }
+
+    h2, h3, p {
+        color: rgb(255, 255, 255);
+        font-size: 2.5em;
+        text-align: center;
+        font-family: 'Caveat', cursive;
+    }
+
+    #lower_flex {
+        display: flex;
+    }
+
+    .col {
+        width: 100%;
+    }
+
+    .col img {
+        width: 90%;
+    }
+
+    .single_col {
+        width: 100%;
+        text-align: center;
+    }
+
+    table, tr, td {
+        border: 4px solid #246e07;
+        padding: 10px;
+        margin: 10px;
+    }
+
+    table img {
+        width: 100%
+    }
+
+    .coupons {
+        display: none;
+    }
+
+    table {
+        display: block;
+    }
+
+    .training {
+        display: none;
+    }
+
+    table, tr, td {
+        border: 4px solid #246e07;
+        padding: 30px;
+        margin: 35px;
+    }
+
+}
