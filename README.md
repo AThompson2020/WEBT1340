@@ -39,4 +39,9 @@
     <li><a href="project_8/portfolio/portfolio-brochure.pdf">Project 8 - Portfolio Brochure PDF</a></li>
 </ul>
 
+<ul>
+    <li><a href="final/index.html">Final Finished Website</a></li>
+    <li><a href="">Final Mock-up</a></li>
+</ul>
+
 <a href="example/index.html" target="_blank">Example Page</a>
