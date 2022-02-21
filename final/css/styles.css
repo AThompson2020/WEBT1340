@@ -1,5 +1,5 @@
 body {
-    background-color: white
+    background-color: white;
     font-family: 'Caveat', cursive;
     color: white;
 }
@@ -168,7 +168,7 @@ table {
     .col img {
         width: 75%;
         border-radius: 10px;
-        border-color: 4px solid #246e07;
+        border: 4px solid #246e07;
     }
 
     .single_col {
