@@ -32,16 +32,17 @@
     <li><a href="project_7/fig3-graph.ai">Project 7 - Portfolio Builder</a></li>
 </ul>
 
-<h2>Project 8</h2>>
+<h6>Project 8</h6>>
 <ul>
     <li><a href="project_8/Studio/site-design.ai">Project 8 - Chapter Work</a></li>
     <li><a href="project_8/portfolio/portfolio-brochure_Folder/portfolio-brochure.ai">Project 8 - Portfolio Brochure AI</a></li>
     <li><a href="project_8/portfolio/portfolio-brochure.pdf">Project 8 - Portfolio Brochure PDF</a></li>
 </ul>
 
+<h7>Final<h7>
 <ul>
     <li><a href="final/index.html">Final Finished Website</a></li>
-    <li><a href="">Final Mock-up</a></li>
+    <li><a href="<iframe width="1920" height="1080" src="https://xd.adobe.com/embed/45e820c7-97f9-4fca-9411-624753ffe29e-10bb/" frameborder="0" allowfullscreen></iframe>">Final Mock-up</a></li>
 </ul>
 
 <a href="example/index.html" target="_blank">Example Page</a>
