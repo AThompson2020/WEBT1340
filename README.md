@@ -42,7 +42,7 @@
 <h7>Final<h7>
 <ul>
     <li><a href="final/index.html">Final Finished Website</a></li>
-    <li><a href="<iframe width="1920" height="1080" src="https://xd.adobe.com/embed/45e820c7-97f9-4fca-9411-624753ffe29e-10bb/" frameborder="0" allowfullscreen></iframe>">Final Mock-up</a></li>
+    <li><a href="final/adobe_files/food.pdf">Final Mock-up</a></li>
 </ul>
 
 <a href="example/index.html" target="_blank">Example Page</a>
